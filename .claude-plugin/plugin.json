@@ -1,0 +1,22 @@
+{
+  "name": "first",
+  "displayName": "First",
+  "version": "1.0.0",
+  "description": "Make a prenup with First, and ask questions about prenups.",
+  "author": {
+    "name": "First",
+    "email": "heretohelp@thisfirst.com",
+    "url": "https://www.thisfirst.com"
+  },
+  "homepage": "https://www.thisfirst.com",
+  "repository": "https://github.com/ThisFirst/first-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "prenup",
+    "prenuptial agreement",
+    "marriage",
+    "wedding",
+    "couples"
+  ],
+  "privacyPolicyUrl": "https://www.thisfirst.com/privacy-policy"
+}
