@@ -1,10 +1,10 @@
 {
-  "name": "first",
+  "name": "thisfirst",
   "displayName": "First",
   "version": "1.0.0",
   "description": "Make a prenup with First, and ask questions about prenups.",
   "author": {
-    "name": "First",
+    "name": "First Tech, LLC",
     "email": "heretohelp@thisfirst.com",
     "url": "https://www.thisfirst.com"
   },
