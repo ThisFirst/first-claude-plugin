@@ -18,5 +18,8 @@
     "wedding",
     "couples"
   ],
-  "privacyPolicyUrl": "https://www.thisfirst.com/privacy-policy"
+  "privacyPolicyUrl": "https://www.thisfirst.com/privacy-policy",
+  "icon": "./.claude-plugin/icon.png",
+  "supportUrl": "https://www.thisfirst.com/contact",
+  "termsOfServiceUrl": "https://www.thisfirst.com/terms-of-service"
 }
